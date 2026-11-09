@@ -1,0 +1,33 @@
+{
+  "name": "tokwhere",
+  "version": "0.1.0",
+  "description": "See where your coding agent's tokens went. Reads Claude Code and Codex session logs.",
+  "type": "module",
+  "bin": {
+    "tokwhere": "bin/tokwhere.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "skill"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "claude-code",
+    "codex",
+    "tokens",
+    "ai-agents",
+    "cli"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monoaster/tokwhere.git"
+  },
+  "author": "monoaster",
+  "license": "MIT"
+}

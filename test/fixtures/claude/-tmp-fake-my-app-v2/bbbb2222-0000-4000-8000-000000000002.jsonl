@@ -1,0 +1,2 @@
+{"type":"user","sessionId":"bbbb2222-0000-4000-8000-000000000002","cwd":"/tmp/fake/my-app-v2","timestamp":"2026-01-02T10:00:26.000Z","message":{"role":"user","content":"hi"}}
+{"type":"assistant","sessionId":"bbbb2222-0000-4000-8000-000000000002","cwd":"/tmp/fake/my-app-v2","timestamp":"2026-01-02T10:00:27.000Z","message":{"id":"v2m1","model":"claude-test-1","role":"assistant","content":[{"type":"text","text":"hello"}],"usage":{"input_tokens":7,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":3}}}
